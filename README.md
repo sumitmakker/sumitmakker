@@ -6,6 +6,6 @@ I began my journey with App Development, then moved on to Website Developemnt.
 2. [Bubble Queen - Cleaning Services](https://www.bubblequeen.in) - Laundry and Cleaning Services Website with Management Dashboard
 3. [GIC- Travel Portal](https://greatindiacaravan.com) - Travel Website with Management Dashboard
 
-Current Learning : React and React Native
+Current Learning : Data Structure and Algorithm
 <br>
 Coding Languages : Javascript, Java, Kotlin
